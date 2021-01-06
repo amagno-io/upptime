@@ -42,6 +42,8 @@ status-website:
       href: /
     - title: Service Desk
       href: https://amagno.atlassian.net/servicedesk/customer/portal/6
+i18n:
+  footer: 
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
