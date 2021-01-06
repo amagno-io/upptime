@@ -32,8 +32,8 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Service Desk
+      href: https://amagno.atlassian.net/servicedesk/customer/portal/6
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
