@@ -4,12 +4,21 @@ repo: upptime # Your GitHub repository name
 
 # Add your sites here
 sites:
+  - name: Amagno Business Cloud
+    url: https://amagno.cloud/amagnoservice/amagnoservice.svc
+    icon: https://amagno.de/wp-content/uploads/2018/02/favicon-2.ico
+  - name: Amagno API
+    url: https://amagno.me/api/v2
+    icon: https://amagno.de/wp-content/uploads/2018/02/favicon-2.ico
   - name: amagno.de
     url: https://amagno.de
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
+    icon: https://amagno.de/wp-content/uploads/2018/02/favicon-2.ico
+  - name: amagno.ch
+    url: https://amagno.ch
+    icon: https://amagno.de/wp-content/uploads/2018/02/favicon-2.ico
+  - name: amagno.co.uk
+    url: https://amagno.co.uk
+    icon: https://amagno.de/wp-content/uploads/2018/02/favicon-2.ico
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
