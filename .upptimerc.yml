@@ -7,13 +7,13 @@ sites:
   - name: Amagno Business Cloud
     url: https://amagno.cloud/
     icon: https://amagno.de/wp-content/uploads/2018/02/favicon-2.ico
-  - name: Amagno Business Cloud - Main Webservice
+  - name: Amagno Business Cloud (Main)
     url: https://amagno.cloud/amagnoservice/amagnoservice.svc
     icon: https://amagno.de/wp-content/uploads/2018/02/favicon-2.ico
-  - name: Amagno Business Cloud - Maintenance Webservice
+  - name: Amagno Business Cloud (Maintenance)
     url: https://amagno.cloud/amagnomaintenanceservice/maintenanceservice.svc
     icon: https://amagno.de/wp-content/uploads/2018/02/favicon-2.ico
-  - name: Amagno Busines Cloud - Event Webservice
+  - name: Amagno Busines Cloud (Events) 
     url: http://amagno.cloud/amagnoeventservice
     icon: https://amagno.de/wp-content/uploads/2018/02/favicon-2.ico
     expectedStatusCodes:
