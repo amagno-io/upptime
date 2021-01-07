@@ -28,6 +28,9 @@ sites:
     url: https://amagno.co.uk
     icon: https://amagno.de/wp-content/uploads/2018/02/favicon-2.ico
 
+assignees:
+  - gerrit-amagno
+
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   cname: status.amagno.cloud
