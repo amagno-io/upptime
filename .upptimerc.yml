@@ -42,9 +42,7 @@ status-website:
       href: /
     - title: Service Desk
       href: https://amagno.atlassian.net/servicedesk/customer/portal/6
-  links:
-    - rel: stylesheet
-      href: https://raw.githubusercontent.com/amagno-io/upptime/master/style.css
+  css: "body { background-color: #fefefe !important; }"
 i18n:
   footer: powered by [Upptime](https://upptime.js.org)
 
