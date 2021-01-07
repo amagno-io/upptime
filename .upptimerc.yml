@@ -5,8 +5,19 @@ repo: upptime # Your GitHub repository name
 # Add your sites here
 sites:
   - name: Amagno Business Cloud
+    url: https://amagno.cloud/
+    icon: https://amagno.de/wp-content/uploads/2018/02/favicon-2.ico
+  - name: Amagno Business Cloud - Main Webservice
     url: https://amagno.cloud/amagnoservice/amagnoservice.svc
     icon: https://amagno.de/wp-content/uploads/2018/02/favicon-2.ico
+  - name: Amagno Business Cloud - Maintenance Webservice
+    url: https://amagno.cloud/amagnomaintenanceservice/maintenanceservice.svc
+    icon: https://amagno.de/wp-content/uploads/2018/02/favicon-2.ico
+  - name: Amagno Busines Cloud - Event Webservice
+    url: http://amagno.cloud/amagnoeventservice
+    icon: https://amagno.de/wp-content/uploads/2018/02/favicon-2.ico
+    expectedStatusCodes:
+      - 401
   - name: Amagno API
     url: https://amagno.me/api/v2
     icon: https://amagno.de/wp-content/uploads/2018/02/favicon-2.ico
