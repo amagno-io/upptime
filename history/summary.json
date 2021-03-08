@@ -22,9 +22,9 @@
     "url": "https://amagno.cloud/amagnoservice/amagnoservice.svc",
     "icon": "https://amagno.de/wp-content/uploads/2018/02/favicon-2.ico",
     "slug": "amagno-business-cloud-main",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 108,
     "timeMonth": 115,
     "timeYear": 145,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-08": 0
+    }
   },
   {
     "name": "Amagno Business Cloud (Maintenance)",
