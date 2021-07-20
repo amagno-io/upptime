@@ -25,10 +25,10 @@
     "url": "https://amagno.cloud/amagnoservice/amagnoservice.svc",
     "icon": "https://amagno.de/wp-content/uploads/2018/02/favicon-2.ico",
     "slug": "amagno-business-cloud-main",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 303,
@@ -37,6 +37,7 @@
     "timeMonth": 130,
     "timeYear": 303,
     "dailyMinutesDown": {
+      "2021-07-20": 2,
       "2021-06-18": 12,
       "2021-05-06": 8,
       "2021-03-08": 7
@@ -47,9 +48,9 @@
     "url": "https://amagno.cloud/amagnomaintenanceservice/maintenanceservice.svc",
     "icon": "https://amagno.de/wp-content/uploads/2018/02/favicon-2.ico",
     "slug": "amagno-business-cloud-maintenance",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -59,6 +60,7 @@
     "timeMonth": 130,
     "timeYear": 133,
     "dailyMinutesDown": {
+      "2021-07-20": 0,
       "2021-05-06": 8
     }
   },
