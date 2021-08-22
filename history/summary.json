@@ -25,9 +25,9 @@
     "url": "https://amagno.cloud/amagnoservice/amagnoservice.svc",
     "icon": "https://amagno.de/wp-content/uploads/2018/02/favicon-2.ico",
     "slug": "amagno-business-cloud-main",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.98%",
@@ -37,6 +37,7 @@
     "timeMonth": 2245,
     "timeYear": 578,
     "dailyMinutesDown": {
+      "2021-08-22": 0,
       "2021-07-28": 23,
       "2021-07-27": 24,
       "2021-07-20": 5,
@@ -50,9 +51,9 @@
     "url": "https://amagno.cloud/amagnomaintenanceservice/maintenanceservice.svc",
     "icon": "https://amagno.de/wp-content/uploads/2018/02/favicon-2.ico",
     "slug": "amagno-business-cloud-maintenance",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -62,6 +63,7 @@
     "timeMonth": 128,
     "timeYear": 132,
     "dailyMinutesDown": {
+      "2021-08-22": 0,
       "2021-07-20": 4,
       "2021-05-06": 8
     }
@@ -71,9 +73,9 @@
     "url": "http://amagno.cloud/amagnoeventservice",
     "icon": "https://amagno.de/wp-content/uploads/2018/02/favicon-2.ico",
     "slug": "amagno-busines-cloud-events",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -83,6 +85,7 @@
     "timeMonth": 258,
     "timeYear": 244,
     "dailyMinutesDown": {
+      "2021-08-22": 0,
       "2021-05-06": 8
     }
   },
@@ -91,9 +94,9 @@
     "url": "https://amagno.me/api/v2",
     "icon": "https://amagno.de/wp-content/uploads/2018/02/favicon-2.ico",
     "slug": "amagno-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
@@ -103,6 +106,7 @@
     "timeMonth": 810,
     "timeYear": 817,
     "dailyMinutesDown": {
+      "2021-08-22": 0,
       "2021-06-05": 183,
       "2021-05-06": 7
     }
@@ -112,9 +116,9 @@
     "url": "https://amagno.me",
     "icon": "https://amagno.de/wp-content/uploads/2018/02/favicon-2.ico",
     "slug": "amagno-mobile-explorer",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -124,6 +128,7 @@
     "timeMonth": 418,
     "timeYear": 356,
     "dailyMinutesDown": {
+      "2021-08-22": 0,
       "2021-05-06": 7
     }
   },
@@ -132,9 +137,9 @@
     "url": "https://amagno.me/webdav",
     "icon": "https://amagno.de/wp-content/uploads/2018/02/favicon-2.ico",
     "slug": "amagno-web-dav",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -143,7 +148,9 @@
     "timeWeek": 128,
     "timeMonth": 126,
     "timeYear": 122,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-22": 0
+    }
   },
   {
     "name": "amagno.de",
