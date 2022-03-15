@@ -19,6 +19,11 @@ sites:
     expectedStatusCodes:
       - 401
   - name: Amagno API
+    url: https://amagno.me/api/v2/me
+    icon: https://amagno.de/wp-content/uploads/2018/02/favicon-2.ico
+    expectedStatusCodes:
+      - 401
+  - name: Amagno API Documentation
     url: https://amagno.me/api/v2
     icon: https://amagno.de/wp-content/uploads/2018/02/favicon-2.ico
   - name: Amagno Mobile Explorer
