@@ -170,18 +170,19 @@
     "url": "https://amagno.de",
     "icon": "https://amagno.de/wp-content/uploads/2018/02/favicon-2.ico",
     "slug": "amagno-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1284,
+    "time": 1285,
     "timeDay": 890,
     "timeWeek": 1214,
     "timeMonth": 1179,
     "timeYear": 1292,
     "dailyMinutesDown": {
+      "2022-10-26": 0,
       "2022-03-03": 23
     }
   },
