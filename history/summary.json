@@ -4,18 +4,20 @@
     "url": "https://amagno.cloud/",
     "icon": "https://amagno.de/wp-content/uploads/2018/02/favicon-2.ico",
     "slug": "amagno-business-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 530,
-    "timeDay": 582,
-    "timeWeek": 548,
-    "timeMonth": 513,
+    "time": 531,
+    "timeDay": 489,
+    "timeWeek": 529,
+    "timeMonth": 509,
     "timeYear": 518,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-18": 0
+    }
   },
   {
     "name": "Amagno Business Cloud (Main)",
@@ -24,17 +26,17 @@
     "slug": "amagno-business-cloud-main",
     "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.97%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.96%",
     "time": 490,
     "timeDay": 140,
     "timeWeek": 129,
     "timeMonth": 832,
     "timeYear": 428,
     "dailyMinutesDown": {
-      "2023-03-18": 0,
+      "2023-03-18": 7,
       "2023-03-01": 15,
       "2023-01-25": 38,
       "2022-11-08": 18,
@@ -51,9 +53,9 @@
     "slug": "amagno-business-cloud-maintenance",
     "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 128,
     "timeDay": 131,
@@ -61,7 +63,7 @@
     "timeMonth": 117,
     "timeYear": 121,
     "dailyMinutesDown": {
-      "2023-03-18": 0
+      "2023-03-18": 7
     }
   },
   {
@@ -71,9 +73,9 @@
     "slug": "amagno-business-cloud-events",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 277,
     "timeDay": 357,
@@ -81,7 +83,7 @@
     "timeMonth": 276,
     "timeYear": 275,
     "dailyMinutesDown": {
-      "2023-03-18": 0
+      "2023-03-18": 7
     }
   },
   {
@@ -91,9 +93,9 @@
     "slug": "amagno-api",
     "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.90%",
     "time": 662,
     "timeDay": 578,
@@ -101,7 +103,7 @@
     "timeMonth": 531,
     "timeYear": 550,
     "dailyMinutesDown": {
-      "2023-03-18": 0,
+      "2023-03-18": 7,
       "2023-01-18": 194,
       "2022-10-26": 24,
       "2022-10-22": 16,
@@ -115,9 +117,9 @@
     "slug": "amagno-api-documentation",
     "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.90%",
     "time": 353,
     "timeDay": 273,
@@ -125,7 +127,7 @@
     "timeMonth": 341,
     "timeYear": 352,
     "dailyMinutesDown": {
-      "2023-03-18": 0,
+      "2023-03-18": 7,
       "2023-01-18": 194,
       "2022-10-26": 24,
       "2022-10-22": 16,
@@ -137,9 +139,9 @@
     "url": "https://amagno.me",
     "icon": "https://amagno.de/wp-content/uploads/2018/02/favicon-2.ico",
     "slug": "amagno-mobile-explorer",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -149,6 +151,7 @@
     "timeMonth": 380,
     "timeYear": 300,
     "dailyMinutesDown": {
+      "2023-03-18": 0,
       "2022-08-31": 50,
       "2022-04-22": 26
     }
@@ -160,17 +163,17 @@
     "slug": "amagno-web-dav",
     "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.96%",
     "time": 181,
     "timeDay": 128,
     "timeWeek": 127,
     "timeMonth": 115,
     "timeYear": 126,
     "dailyMinutesDown": {
-      "2023-03-18": 0,
+      "2023-03-18": 7,
       "2022-08-18": 181
     }
   },
