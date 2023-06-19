@@ -29,11 +29,6 @@ sites:
   - name: Amagno Mobile Explorer
     url: https://amagno.me
     icon: https://amagno.de/wp-content/uploads/2018/02/favicon-2.ico
-  - name: Amagno WebDAV
-    url: https://amagno.me/webdav
-    icon: https://amagno.de/wp-content/uploads/2018/02/favicon-2.ico
-    expectedStatusCodes:
-      - 401
   - name: amagno.de
     url: https://amagno.de
     icon: https://amagno.de/wp-content/uploads/2018/02/favicon-2.ico
