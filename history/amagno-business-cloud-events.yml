@@ -1,7 +1,7 @@
 url: http://amagno.cloud/amagnoeventservice
-status: up
-code: 401
-responseTime: 255
-lastUpdated: 2023-07-07T23:15:05.554Z
+status: down
+code: 404
+responseTime: 257
+lastUpdated: 2023-07-08T12:56:52.164Z
 startTime: Sat Jan 08 2022 14:15:53 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
