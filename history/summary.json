@@ -141,19 +141,19 @@
     "url": "https://amagno.me",
     "icon": "https://amagno.de/wp-content/uploads/2018/02/favicon-2.ico",
     "slug": "amagno-mobile-explorer",
-    "status": "down",
+    "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "97.88%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
     "time": 294,
-    "timeDay": 283,
-    "timeWeek": 272,
-    "timeMonth": 289,
+    "timeDay": 324,
+    "timeWeek": 283,
+    "timeMonth": 291,
     "timeYear": 295,
     "dailyMinutesDown": {
-      "2023-09-06": 0
+      "2023-09-06": 30
     }
   },
   {
