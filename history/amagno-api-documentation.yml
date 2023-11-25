@@ -1,7 +1,7 @@
 url: https://amagno.me/api/v2
-status: down
-code: 500
-responseTime: 90
-lastUpdated: 2023-11-25T13:57:48.107Z
+status: up
+code: 200
+responseTime: 429
+lastUpdated: 2023-11-25T14:11:02.986Z
 startTime: 2022-03-15T09:55:12.000Z
 generator: Upptime <https://github.com/upptime/upptime>
