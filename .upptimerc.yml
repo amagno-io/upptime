@@ -23,6 +23,9 @@ sites:
     icon: https://amagno.de/wp-content/uploads/2018/02/favicon-2.ico
     expectedStatusCodes:
       - 401
+  - name: Amagno App (Beta)
+    url: https://web.amagno.app/
+    icon: https://amagno.de/wp-content/uploads/2018/02/favicon-2.ico
   - name: Amagno API Documentation
     url: https://amagno.me/api/v2
     icon: https://amagno.de/wp-content/uploads/2018/02/favicon-2.ico
