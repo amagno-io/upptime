@@ -1,7 +1,7 @@
 url: https://amagno.ch
-status: up
-code: 200
-responseTime: 2083
-lastUpdated: 2024-12-17T09:41:54.498Z
+status: down
+code: 503
+responseTime: 629
+lastUpdated: 2024-12-17T11:32:17.169Z
 startTime: 2021-01-06T18:39:53.000Z
 generator: Upptime <https://github.com/upptime/upptime>
