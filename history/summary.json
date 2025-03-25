@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 553,
-    "timeDay": 491,
-    "timeWeek": 526,
+    "timeDay": 484,
+    "timeWeek": 530,
     "timeMonth": 524,
-    "timeYear": 545,
+    "timeYear": 546,
     "dailyMinutesDown": {
       "2024-05-15": 18,
       "2024-04-04": 7
@@ -32,8 +32,8 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.96%",
     "time": 656,
-    "timeDay": 109,
-    "timeWeek": 110,
+    "timeDay": 107,
+    "timeWeek": 113,
     "timeMonth": 621,
     "timeYear": 766,
     "dailyMinutesDown": {
@@ -60,10 +60,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 121,
-    "timeDay": 109,
-    "timeWeek": 110,
-    "timeMonth": 111,
+    "time": 120,
+    "timeDay": 107,
+    "timeWeek": 113,
+    "timeMonth": 110,
     "timeYear": 119,
     "dailyMinutesDown": {
       "2024-06-29": 28
@@ -81,7 +81,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 287,
-    "timeDay": 219,
+    "timeDay": 253,
     "timeWeek": 269,
     "timeMonth": 263,
     "timeYear": 273,
@@ -102,8 +102,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 799,
-    "timeDay": 850,
-    "timeWeek": 792,
+    "timeDay": 834,
+    "timeWeek": 817,
     "timeMonth": 798,
     "timeYear": 799,
     "dailyMinutesDown": {}
@@ -120,8 +120,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 589,
-    "timeDay": 483,
-    "timeWeek": 546,
+    "timeDay": 529,
+    "timeWeek": 551,
     "timeMonth": 564,
     "timeYear": 593,
     "dailyMinutesDown": {
@@ -139,10 +139,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 353,
-    "timeDay": 323,
-    "timeWeek": 331,
-    "timeMonth": 331,
+    "time": 354,
+    "timeDay": 339,
+    "timeWeek": 341,
+    "timeMonth": 332,
     "timeYear": 357,
     "dailyMinutesDown": {
       "2024-06-29": 28
@@ -160,9 +160,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 420,
-    "timeDay": 351,
-    "timeWeek": 357,
-    "timeMonth": 355,
+    "timeDay": 418,
+    "timeWeek": 372,
+    "timeMonth": 358,
     "timeYear": 446,
     "dailyMinutesDown": {
       "2025-03-11": 22,
@@ -180,13 +180,13 @@
     "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.07%",
+    "uptimeMonth": "99.16%",
     "uptimeYear": "99.88%",
     "time": 2348,
-    "timeDay": 1963,
-    "timeWeek": 2104,
-    "timeMonth": 2087,
-    "timeYear": 2184,
+    "timeDay": 1965,
+    "timeWeek": 2091,
+    "timeMonth": 2093,
+    "timeYear": 2181,
     "dailyMinutesDown": {
       "2025-03-22": 21,
       "2025-03-11": 15,
@@ -201,8 +201,7 @@
       "2024-08-15": 33,
       "2024-07-02": 20,
       "2024-04-08": 75,
-      "2024-04-01": 16,
-      "2024-03-25": 29
+      "2024-04-01": 16
     }
   },
   {
@@ -211,16 +210,16 @@
     "icon": "https://amagno.de/wp-content/uploads/2018/02/favicon-2.ico",
     "slug": "amagno-ch",
     "status": "up",
-    "uptime": "98.19%",
+    "uptime": "98.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.11%",
+    "uptimeMonth": "99.20%",
     "uptimeYear": "92.55%",
-    "time": 2090,
-    "timeDay": 1855,
-    "timeWeek": 1907,
-    "timeMonth": 1930,
-    "timeYear": 2012,
+    "time": 2092,
+    "timeDay": 1859,
+    "timeWeek": 1915,
+    "timeMonth": 1937,
+    "timeYear": 2009,
     "dailyMinutesDown": {
       "2025-03-22": 21,
       "2025-03-05": 48,
@@ -260,8 +259,7 @@
       "2025-01-03": 42,
       "2024-08-15": 32,
       "2024-07-02": 20,
-      "2024-04-08": 74,
-      "2024-03-25": 29
+      "2024-04-08": 74
     }
   },
   {
@@ -273,13 +271,13 @@
     "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.12%",
+    "uptimeMonth": "99.20%",
     "uptimeYear": "99.89%",
-    "time": 2082,
-    "timeDay": 1852,
-    "timeWeek": 1886,
-    "timeMonth": 1929,
-    "timeYear": 2022,
+    "time": 2084,
+    "timeDay": 1877,
+    "timeWeek": 1904,
+    "timeMonth": 1930,
+    "timeYear": 2020,
     "dailyMinutesDown": {
       "2025-03-22": 21,
       "2025-03-05": 48,
@@ -291,8 +289,7 @@
       "2025-02-02": 22,
       "2024-08-15": 32,
       "2024-07-02": 20,
-      "2024-04-08": 74,
-      "2024-03-25": 29
+      "2024-04-08": 74
     }
   }
 ]
