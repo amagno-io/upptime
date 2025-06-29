@@ -5,16 +5,16 @@
     "icon": "https://amagno.de/wp-content/uploads/2018/02/favicon-2.ico",
     "slug": "amagno-business-cloud",
     "status": "up",
-    "uptime": "99.94%",
+    "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 559,
-    "timeDay": 454,
-    "timeWeek": 629,
-    "timeMonth": 558,
-    "timeYear": 575,
+    "timeDay": 477,
+    "timeWeek": 587,
+    "timeMonth": 556,
+    "timeYear": 576,
     "dailyMinutesDown": {}
   },
   {
@@ -29,8 +29,8 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
     "time": 730,
-    "timeDay": 89,
-    "timeWeek": 133,
+    "timeDay": 92,
+    "timeWeek": 123,
     "timeMonth": 767,
     "timeYear": 859,
     "dailyMinutesDown": {
@@ -41,8 +41,7 @@
       "2025-02-06": 17,
       "2024-12-11": 18,
       "2024-11-08": 17,
-      "2024-08-22": 24,
-      "2024-06-29": 28
+      "2024-08-22": 24
     }
   },
   {
@@ -57,13 +56,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 120,
-    "timeDay": 90,
-    "timeWeek": 133,
-    "timeMonth": 123,
+    "timeDay": 92,
+    "timeWeek": 123,
+    "timeMonth": 122,
     "timeYear": 122,
-    "dailyMinutesDown": {
-      "2024-06-29": 28
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Amagno Business Cloud (Events)",
@@ -77,14 +74,13 @@
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.98%",
     "time": 281,
-    "timeDay": 211,
-    "timeWeek": 319,
+    "timeDay": 263,
+    "timeWeek": 299,
     "timeMonth": 336,
     "timeYear": 289,
     "dailyMinutesDown": {
       "2025-06-09": 55,
-      "2024-11-23": 17,
-      "2024-06-29": 28
+      "2024-11-23": 17
     }
   },
   {
@@ -98,10 +94,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 813,
-    "timeDay": 723,
-    "timeWeek": 979,
-    "timeMonth": 845,
+    "time": 812,
+    "timeDay": 638,
+    "timeWeek": 910,
+    "timeMonth": 837,
     "timeYear": 842,
     "dailyMinutesDown": {}
   },
@@ -117,13 +113,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 598,
-    "timeDay": 433,
-    "timeWeek": 763,
-    "timeMonth": 647,
+    "timeDay": 488,
+    "timeWeek": 727,
+    "timeMonth": 644,
     "timeYear": 616,
-    "dailyMinutesDown": {
-      "2024-06-29": 28
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Amagno API Documentation",
@@ -137,13 +131,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 356,
-    "timeDay": 276,
-    "timeWeek": 401,
-    "timeMonth": 345,
+    "timeDay": 277,
+    "timeWeek": 372,
+    "timeMonth": 342,
     "timeYear": 361,
-    "dailyMinutesDown": {
-      "2024-06-29": 28
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Amagno Mobile Explorer",
@@ -157,9 +149,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 432,
-    "timeDay": 314,
-    "timeWeek": 420,
-    "timeMonth": 372,
+    "timeDay": 339,
+    "timeWeek": 381,
+    "timeMonth": 371,
     "timeYear": 456,
     "dailyMinutesDown": {
       "2025-03-11": 22,
@@ -179,10 +171,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
-    "time": 2263,
-    "timeDay": 2143,
-    "timeWeek": 5646,
-    "timeMonth": 2876,
+    "time": 2253,
+    "timeDay": 1966,
+    "timeWeek": 5731,
+    "timeMonth": 2916,
     "timeYear": 2212,
     "dailyMinutesDown": {
       "2025-04-24": 32,
@@ -211,15 +203,15 @@
     "icon": "https://amagno.de/wp-content/uploads/2018/02/favicon-2.ico",
     "slug": "amagno-ch",
     "status": "up",
-    "uptime": "98.29%",
+    "uptime": "98.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "92.55%",
-    "time": 2035,
-    "timeDay": 1458,
-    "timeWeek": 2214,
-    "timeMonth": 2218,
+    "time": 2032,
+    "timeDay": 1863,
+    "timeWeek": 2085,
+    "timeMonth": 2202,
     "timeYear": 2011,
     "dailyMinutesDown": {
       "2025-04-24": 32,
@@ -279,10 +271,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
-    "time": 2056,
-    "timeDay": 1963,
-    "timeWeek": 2410,
-    "timeMonth": 2249,
+    "time": 2053,
+    "timeDay": 1962,
+    "timeWeek": 2337,
+    "timeMonth": 2240,
     "timeYear": 2043,
     "dailyMinutesDown": {
       "2025-04-24": 32,
