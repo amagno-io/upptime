@@ -1,7 +1,7 @@
 url: https://amagno.cloud/amagnoservice/amagnoservice.svc
-status: down
-code: 500
-responseTime: 94
-lastUpdated: 2025-08-08T04:55:08.783Z
+status: up
+code: 200
+responseTime: 16268
+lastUpdated: 2025-08-08T05:48:56.602Z
 startTime: 2021-01-07T23:00:39.000Z
 generator: Upptime <https://github.com/upptime/upptime>
