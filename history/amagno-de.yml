@@ -1,7 +1,7 @@
 url: https://amagno.de
-status: up
-code: 200
-responseTime: 2328
-lastUpdated: 2025-09-25T23:17:30.442Z
+status: down
+code: 503
+responseTime: 512
+lastUpdated: 2025-09-25T23:33:37.471Z
 startTime: 2021-01-06T18:33:04.000Z
 generator: Upptime <https://github.com/upptime/upptime>
