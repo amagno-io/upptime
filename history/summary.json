@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 582,
-    "timeDay": 416,
-    "timeWeek": 582,
-    "timeMonth": 577,
-    "timeYear": 582,
+    "timeDay": 759,
+    "timeWeek": 608,
+    "timeMonth": 586,
+    "timeYear": 583,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 796,
-    "timeDay": 90,
-    "timeWeek": 122,
-    "timeMonth": 117,
+    "timeDay": 133,
+    "timeWeek": 123,
+    "timeMonth": 118,
     "timeYear": 594,
     "dailyMinutesDown": {
       "2025-08-25": 26,
@@ -53,9 +53,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 121,
-    "timeDay": 90,
-    "timeWeek": 122,
-    "timeMonth": 117,
+    "timeDay": 133,
+    "timeWeek": 123,
+    "timeMonth": 118,
     "timeYear": 119,
     "dailyMinutesDown": {}
   },
@@ -71,7 +71,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 293,
-    "timeDay": 262,
+    "timeDay": 272,
     "timeWeek": 286,
     "timeMonth": 286,
     "timeYear": 299,
@@ -91,10 +91,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 850,
-    "timeDay": 602,
-    "timeWeek": 854,
-    "timeMonth": 828,
+    "time": 849,
+    "timeDay": 933,
+    "timeWeek": 867,
+    "timeMonth": 833,
     "timeYear": 849,
     "dailyMinutesDown": {}
   },
@@ -110,10 +110,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 638,
-    "timeDay": 525,
-    "timeWeek": 689,
+    "timeDay": 609,
+    "timeWeek": 691,
     "timeMonth": 618,
-    "timeYear": 635,
+    "timeYear": 636,
     "dailyMinutesDown": {}
   },
   {
@@ -128,9 +128,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 363,
-    "timeDay": 268,
-    "timeWeek": 375,
-    "timeMonth": 355,
+    "timeDay": 403,
+    "timeWeek": 378,
+    "timeMonth": 358,
     "timeYear": 354,
     "dailyMinutesDown": {}
   },
@@ -145,10 +145,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 386,
-    "timeDay": 316,
+    "time": 385,
+    "timeDay": 413,
     "timeWeek": 387,
-    "timeMonth": 383,
+    "timeMonth": 384,
     "timeYear": 381,
     "dailyMinutesDown": {
       "2025-08-25": 23,
@@ -166,11 +166,11 @@
     "uptimeWeek": "97.97%",
     "uptimeMonth": "99.53%",
     "uptimeYear": "99.78%",
-    "time": 2101,
-    "timeDay": 812,
-    "timeWeek": 1074,
-    "timeMonth": 1021,
-    "timeYear": 2107,
+    "time": 2099,
+    "timeDay": 1166,
+    "timeWeek": 1087,
+    "timeMonth": 1028,
+    "timeYear": 2106,
     "dailyMinutesDown": {
       "2026-02-21": 204,
       "2025-12-22": 54,
@@ -191,8 +191,7 @@
       "2025-03-11": 15,
       "2025-03-05": 49,
       "2025-02-28": 186,
-      "2025-02-27": 81,
-      "2025-02-25": 16
+      "2025-02-27": 81
     }
   },
   {
@@ -202,15 +201,15 @@
     "slug": "amagno-ch",
     "status": "up",
     "uptime": "98.49%",
-    "uptimeDay": "96.15%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.45%",
-    "uptimeMonth": "99.84%",
+    "uptimeMonth": "99.87%",
     "uptimeYear": "99.77%",
-    "time": 2143,
-    "timeDay": 1915,
-    "timeWeek": 2305,
-    "timeMonth": 2261,
-    "timeYear": 2199,
+    "time": 2144,
+    "timeDay": 2457,
+    "timeWeek": 2320,
+    "timeMonth": 2230,
+    "timeYear": 2202,
     "dailyMinutesDown": {
       "2026-02-23": 56,
       "2026-01-24": 16,
@@ -238,8 +237,7 @@
       "2025-03-22": 21,
       "2025-03-05": 48,
       "2025-02-28": 185,
-      "2025-02-27": 80,
-      "2025-02-25": 16
+      "2025-02-27": 80
     }
   },
   {
@@ -249,15 +247,15 @@
     "slug": "amagno-co-uk",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "96.16%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.45%",
-    "uptimeMonth": "99.84%",
+    "uptimeMonth": "99.87%",
     "uptimeYear": "99.82%",
     "time": 2075,
-    "timeDay": 1840,
-    "timeWeek": 2249,
-    "timeMonth": 2149,
-    "timeYear": 2099,
+    "timeDay": 2246,
+    "timeWeek": 2272,
+    "timeMonth": 2155,
+    "timeYear": 2100,
     "dailyMinutesDown": {
       "2026-02-23": 55,
       "2026-01-24": 15,
@@ -284,8 +282,7 @@
       "2025-03-22": 21,
       "2025-03-05": 48,
       "2025-02-28": 184,
-      "2025-02-27": 79,
-      "2025-02-25": 16
+      "2025-02-27": 79
     }
   }
 ]
