@@ -160,9 +160,9 @@
     "url": "https://amagno.de",
     "icon": "https://amagno.de/wp-content/uploads/2018/02/favicon-2.ico",
     "slug": "amagno-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "97.97%",
     "uptimeMonth": "99.53%",
     "uptimeYear": "99.78%",
@@ -172,6 +172,7 @@
     "timeMonth": 1028,
     "timeYear": 2106,
     "dailyMinutesDown": {
+      "2026-02-25": 1,
       "2026-02-21": 204,
       "2025-12-22": 54,
       "2025-12-03": 22,
@@ -209,7 +210,7 @@
     "timeDay": 2457,
     "timeWeek": 2320,
     "timeMonth": 2230,
-    "timeYear": 2202,
+    "timeYear": 2203,
     "dailyMinutesDown": {
       "2026-02-23": 56,
       "2026-01-24": 16,
@@ -255,7 +256,7 @@
     "timeDay": 2246,
     "timeWeek": 2272,
     "timeMonth": 2155,
-    "timeYear": 2100,
+    "timeYear": 2101,
     "dailyMinutesDown": {
       "2026-02-23": 55,
       "2026-01-24": 15,
