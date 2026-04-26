@@ -14,7 +14,7 @@
     "timeDay": 497,
     "timeWeek": 505,
     "timeMonth": 566,
-    "timeYear": 566,
+    "timeYear": 567,
     "dailyMinutesDown": {}
   },
   {
@@ -32,7 +32,7 @@
     "timeDay": 112,
     "timeWeek": 2026,
     "timeMonth": 554,
-    "timeYear": 477,
+    "timeYear": 478,
     "dailyMinutesDown": {
       "2026-03-16": 33,
       "2026-03-09": 38,
@@ -117,7 +117,7 @@
     "timeDay": 458,
     "timeWeek": 488,
     "timeMonth": 577,
-    "timeYear": 630,
+    "timeYear": 631,
     "dailyMinutesDown": {
       "2026-03-07": 27
     }
@@ -206,7 +206,7 @@
     "timeDay": 961,
     "timeWeek": 908,
     "timeMonth": 1044,
-    "timeYear": 2099,
+    "timeYear": 2100,
     "dailyMinutesDown": {
       "2026-03-16": 91,
       "2026-02-27": 210,
@@ -234,19 +234,19 @@
     "url": "https://amagno.co.uk",
     "icon": "https://amagno.de/wp-content/uploads/2018/02/favicon-2.ico",
     "slug": "amagno-co-uk",
-    "status": "down",
+    "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.46%",
-    "uptimeMonth": "98.82%",
-    "uptimeYear": "99.73%",
-    "time": 2104,
-    "timeDay": 2027,
-    "timeWeek": 2010,
-    "timeMonth": 2349,
+    "uptimeDay": "96.92%",
+    "uptimeWeek": "99.02%",
+    "uptimeMonth": "98.72%",
+    "uptimeYear": "99.72%",
+    "time": 2103,
+    "timeDay": 1969,
+    "timeWeek": 1999,
+    "timeMonth": 2339,
     "timeYear": 2133,
     "dailyMinutesDown": {
-      "2026-04-26": 1,
+      "2026-04-26": 44,
       "2026-04-23": 54,
       "2026-04-18": 38,
       "2026-04-10": 168,
