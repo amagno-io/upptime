@@ -232,17 +232,17 @@
     "url": "https://amagno.co.uk",
     "icon": "https://amagno.de/wp-content/uploads/2018/02/favicon-2.ico",
     "slug": "amagno-co-uk",
-    "status": "down",
+    "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "97.49%",
-    "uptimeYear": "99.48%",
-    "time": 2125,
-    "timeDay": 1946,
-    "timeWeek": 2121,
-    "timeMonth": 2205,
-    "timeYear": 2136,
+    "uptimeDay": "93.59%",
+    "uptimeWeek": "99.08%",
+    "uptimeMonth": "97.28%",
+    "uptimeYear": "99.46%",
+    "time": 2126,
+    "timeDay": 1969,
+    "timeWeek": 2105,
+    "timeMonth": 2200,
+    "timeYear": 2135,
     "dailyMinutesDown": {
       "2025-07-01": 19,
       "2025-07-27": 19,
@@ -285,7 +285,7 @@
       "2026-06-03": 276,
       "2026-06-07": 72,
       "2026-06-10": 176,
-      "2026-06-21": 1
+      "2026-06-21": 92
     }
   }
 ]
