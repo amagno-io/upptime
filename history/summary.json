@@ -22,21 +22,22 @@
     "url": "https://amagno.cloud/amagnoservice/amagnoservice.svc",
     "icon": "https://amagno.de/wp-content/uploads/2018/02/favicon-2.ico",
     "slug": "amagno-business-cloud-main",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 780,
-    "timeDay": 478,
-    "timeWeek": 441,
-    "timeMonth": 1850,
-    "timeYear": 840,
+    "time": 781,
+    "timeDay": 471,
+    "timeWeek": 444,
+    "timeMonth": 1806,
+    "timeYear": 839,
     "dailyMinutesDown": {
       "2026-03-07": 27,
       "2026-03-09": 38,
-      "2026-03-16": 33
+      "2026-03-16": 33,
+      "2026-09-12": 1
     }
   },
   {
@@ -44,19 +45,20 @@
     "url": "https://amagno.cloud/amagnomaintenanceservice/maintenanceservice.svc",
     "icon": "https://amagno.de/wp-content/uploads/2018/02/favicon-2.ico",
     "slug": "amagno-business-cloud-maintenance",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 351,
-    "timeDay": 973,
-    "timeWeek": 957,
-    "timeMonth": 829,
+    "time": 352,
+    "timeDay": 694,
+    "timeWeek": 889,
+    "timeMonth": 816,
     "timeYear": 436,
     "dailyMinutesDown": {
-      "2026-03-07": 27
+      "2026-03-07": 27,
+      "2026-09-12": 1
     }
   },
   {
@@ -64,19 +66,20 @@
     "url": "http://amagno.cloud/amagnoeventservice",
     "icon": "https://amagno.de/wp-content/uploads/2018/02/favicon-2.ico",
     "slug": "amagno-business-cloud-events",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 295,
-    "timeDay": 325,
-    "timeWeek": 301,
+    "timeDay": 328,
+    "timeWeek": 304,
     "timeMonth": 313,
-    "timeYear": 287,
+    "timeYear": 288,
     "dailyMinutesDown": {
-      "2026-03-07": 27
+      "2026-03-07": 27,
+      "2026-09-12": 0
     }
   },
   {
